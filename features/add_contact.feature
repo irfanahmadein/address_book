@@ -1,5 +1,5 @@
 Feature: Add a contact
-    As a user
+    As the well connected person that I am
     In order to keep track of my peeps
     I want to add a contact to my address book
 
