@@ -1,1 +1,23 @@
 h1. Rails Sample Application
+
+This is a sample Rails application that uses Cucumber, RSpec, Factory Girl and Shoulda RSpec matchers to demonstrate the usefulness of these tools for creating a well-tested application.
+
+h2. Installation
+
+The following installation instructions assume you have Ruby 1.8.7 and Git installed.
+
+* gem install rails -v 2.3.5
+* git clone git://github.com/aeden/address_book.git
+* cd address_book
+* rake gems:install RAILS_ENV=cucumber
+* rake gems:install RAILS_ENV=test
+* rake db:migrate
+
+h2. Running the Feature Stories
+
+* rake cucumber
+* rake spec
+
+And if you have autotest (which I use all the time):
+
+* AUTOFEATURE=true autospec
