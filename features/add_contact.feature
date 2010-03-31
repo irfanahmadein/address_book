@@ -17,4 +17,5 @@ Feature: Add a contact
 
     Scenario: Fail to add a contact if I leave all fields blank
         When I press "Save"
-        And I should see "1 error"
+        Then I should see "1 error prohibited this contact from being saved"
+        And I should see "You must specify either the first name, last name or both"
