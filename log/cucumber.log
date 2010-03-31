@@ -1,0 +1,936 @@
+# Logfile created on Tue Mar 30 15:14:55 -1000 2010REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-30 15:25:58) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-30 15:27:12) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:27:48) [GET]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-30 15:27:48) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:29:32) [GET]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-30 15:29:32) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:29:36) [GET]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-30 15:29:36) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:29:50) [GET]
+Rendering contacts/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:30:17) [GET]
+Rendering contacts/index
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-30 15:30:17) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:30:37) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:30:37) [GET]
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-03-30 15:30:37) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:30:52) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:30:52) [GET]
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-03-30 15:30:52) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:31:04) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:31:04) [GET]
+Rendering contacts/new
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:31:45) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:31:45) [GET]
+Rendering contacts/new
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:31:53) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:31:53) [GET]
+Rendering contacts/new
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:32:54) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:32:54) [GET]
+Rendering contacts/new
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-03-30 15:32:54) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:33:13) [GET]
+Rendering contacts/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:33:13) [GET]
+Rendering contacts/new
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-03-30 15:33:13) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:33:24) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:33:24) [GET]
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-03-30 15:33:24) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:33:41) [GET]
+Rendering contacts/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:33:41) [GET]
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-03-30 15:33:41) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:33:59) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:33:59) [GET]
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-03-30 15:33:59) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:34:10) [GET]
+Rendering contacts/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:34:10) [GET]
+
+
+Processing ApplicationController#new (for 127.0.0.1 at 2010-03-30 15:34:10) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:34:23) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:34:23) [GET]
+Rendering contacts/new
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:34:46) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:34:46) [GET]
+Rendering contacts/new
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:34:46) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+
+
+Processing ApplicationController#create (for 127.0.0.1 at 2010-03-30 15:34:46) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:35:32) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:35:32) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:35:32) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;36;1mContact Create (0.5ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:35:32', '2010-03-31 01:35:32', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/
+Completed in 10ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/ with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:35:32) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:35:50) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:35:50) [GET]
+Rendering contacts/new
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:35:50) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;36;1mContact Create (0.5ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:35:50', '2010-03-31 01:35:50', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 3ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:35:50) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:36:03) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:36:04) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:36:04) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;36;1mContact Create (0.5ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:36:04', '2010-03-31 01:36:04', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 6ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:36:04) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:36:16) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:36:16) [GET]
+Rendering contacts/new
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:36:16) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;36;1mContact Create (0.5ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:36:16', '2010-03-31 01:36:16', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 3ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:36:16) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:36:37) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:36:37) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:36:37) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;36;1mContact Create (0.5ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:36:37', '2010-03-31 01:36:37', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 3ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:36:37) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:37:27) [GET]
+Rendering contacts/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:37:27) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:37:27) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;36;1mContact Create (0.5ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:37:27', '2010-03-31 01:37:27', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 5ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:37:27) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:42:08) [GET]
+Rendering contacts/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:42:08) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:42:08) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;36;1mContact Create (0.5ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:42:08', '2010-03-31 01:42:08', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 3ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:42:08) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:43:40) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:43:40) [GET]
+Rendering contacts/new
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:43:40) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;35;1mContact Create (0.5ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:40', '2010-03-31 01:43:40', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 3ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:43:40) [GET]
+  [4;36;1mContact Load (0.2ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:44:11) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:44:11) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:44:11) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;35;1mContact Create (0.4ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:44:11', '2010-03-31 01:44:11', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 4ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:44:11) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-30 15:44:11) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:44:35) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:44:35) [GET]
+Rendering contacts/new
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:44:35) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;35;1mContact Create (0.5ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:44:35', '2010-03-31 01:44:35', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 3ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:44:35) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-30 15:44:35) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:44:39) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:44:39) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:44:39) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;35;1mContact Create (0.5ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:44:39', '2010-03-31 01:44:39', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 3ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:44:39) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-30 15:44:39) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:45:04) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:45:04) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:45:04) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;35;1mContact Create (2.8ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:45:04', '2010-03-31 01:45:04', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 10ms (DB: 3) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:45:04) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-03-30 15:45:04) [GET]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:46:45) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:46:45) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:46:45) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;35;1mContact Create (0.4ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:45', '2010-03-31 01:46:45', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 3ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:46:45) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:46:48) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:46:48) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:46:48) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;35;1mContact Create (0.4ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:48', '2010-03-31 01:46:48', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 2ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:46:48) [GET]
+  [4;36;1mContact Load (0.2ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:49:06) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:49:06) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:49:06) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;35;1mContact Create (0.4ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:06', '2010-03-31 01:49:06', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 2ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:49:06) [GET]
+  [4;36;1mContact Load (0.2ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:49:09) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:49:09) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:49:09) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;35;1mContact Create (0.4ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:09', '2010-03-31 01:49:09', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 3ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:49:09) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:49:35) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:49:35) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:49:35) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;35;1mContact Create (0.5ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:35', '2010-03-31 01:49:35', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 3ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:49:35) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:50:21) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:50:21) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:50:21) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;35;1mContact Create (0.5ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:50:21', '2010-03-31 01:50:21', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 3ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:50:21) [GET]
+  [4;36;1mContact Load (0.2ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:50:21) [GET]
+  [4;35;1mContact Load (0.2ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:50:21) [GET]
+Rendering contacts/new
+Completed in 2ms (View: 2, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"", "first_name"=>""}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:50:21) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"", "first_name"=>""}}
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:50:21', '2010-03-31 01:50:21', '', '')[0m
+Redirected to http://www.example.com/contacts
+Completed in 2ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:50:21) [GET]
+  [4;35;1mContact Load (0.2ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:53:08) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:53:08) [GET]
+Rendering contacts/new
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"", "first_name"=>""}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:53:08) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"", "first_name"=>""}}
+  [4;35;1mContact Create (0.4ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:53:08', '2010-03-31 01:53:08', '', '')[0m
+Redirected to http://www.example.com/contacts
+Completed in 3ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:53:08) [GET]
+  [4;36;1mContact Load (0.2ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:54:25) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 10ms (View: 7, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:54:25) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"", "first_name"=>""}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:54:26) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"", "first_name"=>""}}
+  [4;35;1mContact Create (0.5ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:54:26', '2010-03-31 01:54:26', '', '')[0m
+Redirected to http://www.example.com/contacts
+Completed in 3ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:54:26) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:59:13) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:59:13) [GET]
+Rendering contacts/new
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"", "first_name"=>""}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:59:13) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"", "first_name"=>""}}
+Rendering contacts/new
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:59:50) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:59:50) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"", "first_name"=>""}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:59:50) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"", "first_name"=>""}}
+Rendering contacts/new
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:59:53) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:59:53) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:59:53) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;35;1mContact Create (0.5ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:53', '2010-03-31 01:59:53', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 3ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:59:53) [GET]
+  [4;36;1mContact Load (0.2ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 15:59:53) [GET]
+  [4;35;1mContact Load (0.2ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 15:59:53) [GET]
+Rendering contacts/new
+Completed in 2ms (View: 2, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"", "first_name"=>""}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 15:59:53) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"", "first_name"=>""}}
+Rendering contacts/new
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 16:00:03) [GET]
+  [4;36;1mContact Load (0.3ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 16:00:03) [GET]
+Rendering contacts/new
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 16:00:03) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"Eden", "first_name"=>"Anthony"}}
+  [4;35;1mContact Create (0.4ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 02:00:03', '2010-03-31 02:00:03', 'Eden', 'Anthony')[0m
+Redirected to http://www.example.com/contacts
+Completed in 3ms (DB: 0) | 302 Found [http://www.example.com/contacts]
+REQUESTING PAGE: GET http://www.example.com/contacts with {} and HTTP headers {"HTTP_REFERER"=>"/contacts"}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 16:00:03) [GET]
+  [4;36;1mContact Load (0.2ms)[0m   [0;1mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://www.example.com/contacts]
+REQUESTING PAGE: GET / with {} and HTTP headers {}
+
+
+Processing ContactsController#index (for 127.0.0.1 at 2010-03-30 16:00:03) [GET]
+  [4;35;1mContact Load (0.2ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 1, DB: 0) | 200 OK [http://www.example.com/]
+REQUESTING PAGE: GET /contacts/new with {} and HTTP headers {"HTTP_REFERER"=>"/"}
+
+
+Processing ContactsController#new (for 127.0.0.1 at 2010-03-30 16:00:03) [GET]
+Rendering contacts/new
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://www.example.com/contacts/new]
+REQUESTING PAGE: POST /contacts with {"commit"=>"Save", "contact"=>{"last_name"=>"", "first_name"=>""}} and HTTP headers {"HTTP_REFERER"=>"/contacts/new"}
+
+
+Processing ContactsController#create (for 127.0.0.1 at 2010-03-30 16:00:03) [POST]
+  Parameters: {"commit"=>"Save", "contact"=>{"last_name"=>"", "first_name"=>""}}
+Rendering contacts/new
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://www.example.com/contacts]

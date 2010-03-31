@@ -1,0 +1,15 @@
+<%  form_for @contact do |f| %>
+  <%= f.error_messages %>
+
+  <div>
+    <%= f.label :first_name %>
+    <%= f.text_field :first_name %>
+  </div>
+  
+  <div>
+    <%= f.label :last_name %>
+    <%= f.text_field :last_name %>
+  </div>
+
+  <%= f.submit 'Save' %>
+<%  end %>

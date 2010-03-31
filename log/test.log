@@ -1,0 +1,264 @@
+  [4;36;1mContact Create (0.4ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:37:46', '2010-03-31 01:37:46', NULL, NULL)[0m
+  [4;36;1mContact Create (0.4ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:38:24', '2010-03-31 01:38:24', NULL, NULL)[0m
+  [4;36;1mContact Create (0.4ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:38:55', '2010-03-31 01:38:55', NULL, NULL)[0m
+  [4;36;1mContact Create (0.4ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:40:39', '2010-03-31 01:40:39', NULL, NULL)[0m
+  [4;35;1mContact Create (0.2ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:40:39', '2010-03-31 01:40:39', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:40:39', '2010-03-31 01:40:39', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:40:39', '2010-03-31 01:40:39', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:40:39', '2010-03-31 01:40:39', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:40:39', '2010-03-31 01:40:39', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:40:39) [GET]
+Rendering contacts/index
+Completed in 2ms (View: 1, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.4ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:42:07', '2010-03-31 01:42:07', NULL, NULL)[0m
+  [4;35;1mContact Create (0.2ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:42:07', '2010-03-31 01:42:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:42:07', '2010-03-31 01:42:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:42:07', '2010-03-31 01:42:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:42:07', '2010-03-31 01:42:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:42:07', '2010-03-31 01:42:07', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:42:07) [GET]
+Rendering contacts/index
+Completed in 3ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.4ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:43:07) [GET]
+Rendering contacts/index
+Completed in 2ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;35;1mContact Create (0.3ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:43:07) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:43:07) [GET]
+Rendering contacts/index
+Completed in 0ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;35;1mContact Create (0.3ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:07', '2010-03-31 01:43:07', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:43:07) [GET]
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:43:39) [GET]
+  [4;35;1mContact Load (0.5ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 3ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:43:39) [GET]
+  [4;35;1mContact Load (0.5ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:43:39) [GET]
+  [4;35;1mContact Load (0.5ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:43:39', '2010-03-31 01:43:39', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:43:39) [GET]
+  [4;35;1mContact Load (0.5ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.4ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:24', '2010-03-31 01:46:24', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.4ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:43', '2010-03-31 01:46:43', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:46:46) [GET]
+  [4;35;1mContact Load (0.5ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 3ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:46:46) [GET]
+  [4;35;1mContact Load (0.5ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:46:46) [GET]
+  [4;35;1mContact Load (0.5ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:46:46) [GET]
+  [4;35;1mContact Load (0.5ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:46:46', '2010-03-31 01:46:46', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.4ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:48:16', '2010-03-31 01:48:16', NULL, 'John')[0m
+  [4;35;1mContact Create (0.3ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:48:16', '2010-03-31 01:48:16', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:04', '2010-03-31 01:49:04', NULL, 'John')[0m
+  [4;35;1mContact Create (0.2ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:04', '2010-03-31 01:49:04', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:49:07) [GET]
+  [4;35;1mContact Load (0.5ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 3ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:49:07) [GET]
+  [4;35;1mContact Load (0.5ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:49:07) [GET]
+  [4;35;1mContact Load (0.5ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:49:07) [GET]
+  [4;35;1mContact Load (0.5ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', NULL, 'John')[0m
+  [4;35;1mContact Create (0.2ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:49:07', '2010-03-31 01:49:07', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:54:24', '2010-03-31 01:54:24', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.2ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:54:24', '2010-03-31 01:54:24', NULL, 'John')[0m
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:56:18', '2010-03-31 01:56:18', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.2ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:56:18', '2010-03-31 01:56:18', NULL, 'John')[0m
+  [4;36;1mContact Create (0.2ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:56:18', '2010-03-31 01:56:18', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.6ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:57:27', '2010-03-31 01:57:27', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.2ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:57:27', '2010-03-31 01:57:27', NULL, 'John')[0m
+  [4;36;1mContact Create (0.2ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:57:27', '2010-03-31 01:57:27', NULL, NULL)[0m
+  [4;36;1mContact Create (0.4ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:58:52', '2010-03-31 01:58:52', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.3ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:58:52', '2010-03-31 01:58:52', NULL, 'John')[0m
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:11', '2010-03-31 01:59:11', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.2ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:11', '2010-03-31 01:59:11', NULL, 'John')[0m
+  [4;36;1mContact Create (0.4ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:59:52) [GET]
+  [4;35;1mContact Load (0.5ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 3ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:59:52) [GET]
+  [4;35;1mContact Load (0.5ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:59:52) [GET]
+  [4;35;1mContact Load (0.5ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.3ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.1ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+  [4;36;1mContact Create (0.1ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+
+
+Processing ContactsController#index (for 0.0.0.0 at 2010-03-30 15:59:52) [GET]
+  [4;35;1mContact Load (0.5ms)[0m   [0mSELECT * FROM "contacts" [0m
+Rendering contacts/index
+Completed in 1ms (View: 0, DB: 1) | 200 OK [http://test.host/]
+  [4;36;1mContact Create (0.2ms)[0m   [0;1mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', 'Doe', 'John')[0m
+  [4;35;1mContact Create (0.3ms)[0m   [0mINSERT INTO "contacts" ("created_at", "updated_at", "last_name", "first_name") VALUES('2010-03-31 01:59:52', '2010-03-31 01:59:52', NULL, 'John')[0m
